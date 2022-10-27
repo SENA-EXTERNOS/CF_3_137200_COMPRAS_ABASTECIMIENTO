@@ -64,7 +64,7 @@
 
     #t_1_2
 
-    .titulo-segundo.color-acento-contenido.mt-5
+    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
       h2 1.2 Características
 
     .row
@@ -103,7 +103,7 @@
 
     #t_1_3
 
-    .titulo-segundo.color-acento-contenido.mt-5
+    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
       h2 1.3 Ubicación geográfica
 
     .row.justify-content-around.align-items-center

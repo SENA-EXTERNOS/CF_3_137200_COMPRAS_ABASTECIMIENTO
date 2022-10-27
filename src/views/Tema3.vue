@@ -23,7 +23,7 @@
 
     #t_3_1
 
-    .titulo-segundo.color-acento-contenido.mt-5
+    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
       h2 3.1 Estructura
 
     .row.justify-content-around.align-items-center.mt-5
@@ -52,7 +52,7 @@
 
     #t_3_2
 
-    .titulo-segundo.color-acento-contenido.mt-5
+    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
       h2 3.2 Tipos de captura
 
     .row.justify-content-around.align-items-center.mt-5
@@ -71,7 +71,7 @@
     
     #t_3_3
 
-    .titulo-segundo.color-acento-contenido.mt-5
+    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
       h2 3.3 Conformación
 
     .row
@@ -112,7 +112,7 @@
 
     #t_3_4
 
-    .titulo-segundo.color-acento-contenido.mt-5
+    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
       h2 3.4 Aplicación
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
@@ -126,7 +126,7 @@
 
     #t_3_5
 
-    .titulo-segundo.color-acento-contenido.mt-5
+    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
       h2 3.5 Técnicas de uso
 
     .row.justify-content-around.align-items-center

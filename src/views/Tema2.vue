@@ -20,7 +20,7 @@
 
     #t_2_1
 
-    .titulo-segundo.color-acento-contenido.mt-5
+    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
       h2 2.1 Tipos
 
     .row.justify-content-around.align-items-center
@@ -65,7 +65,7 @@
 
     #t_2_2
 
-    .titulo-segundo.color-acento-contenido.mt-5
+    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
       h2 2.2 Características
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5

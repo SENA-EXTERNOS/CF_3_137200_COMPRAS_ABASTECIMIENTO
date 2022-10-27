@@ -41,7 +41,7 @@
 
     #t_4_2
 
-    .titulo-segundo.color-acento-contenido.mt-5
+    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
       h2 4.2 Características
 
     .row
@@ -109,7 +109,7 @@
     
     #t_4_3
 
-    .titulo-segundo.color-acento-contenido.mt-5
+    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
       h2 4.3 Aplicaciones
 
     .row.justify-content-around.align-items-center
@@ -125,7 +125,7 @@
 
     #t_4_4
 
-    .titulo-segundo.color-acento-contenido.mt-5
+    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
       h2 4.4 Técnicas de elaboración
 
     .row.justify-content-around.align-items-center.mt-5
@@ -142,7 +142,7 @@
 
     #t_4_5
 
-    .titulo-segundo.color-acento-contenido.mt-5
+    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
       h2 4.5 Diligenciamiento
 
     .row
