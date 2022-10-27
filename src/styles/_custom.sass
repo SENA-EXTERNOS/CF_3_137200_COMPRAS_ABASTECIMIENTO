@@ -2,13 +2,28 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 25%
+    right: 80%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 61%
+    right: 60%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 41%
+    right: 15%
+  &-4
+    //animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 6%
+    right: 45%
+  &-5
+    animation: float4 3.8s ease-in-out infinite alternate
+    position: absolute
+    top: 5%
+    right: 63%
 
 
 @keyframes float1
@@ -17,3 +32,168 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes float4
+  0%
+    transform: translatex(20px)
+
+  50%
+    transform: translatex(0px)
+  100%
+    transform: rotate(-10deg)
+
+//estilos adicionales
+
+.cajonAmarillo
+  position: relative
+  &:before
+    content: ''
+    display: block
+    width: 25px
+    height: 10px
+    position: absolute
+    top: 0
+    left: 0
+
+  &.color-primario
+    background-color: #FFF6DB
+    &:before
+      background-color: #FDB74D
+  &.color-secundario
+    background-color: lighten($color-secundario, 20%)
+    &:before
+      background-color: $color-secundario
+  &.color-acento-contenido
+    background-color: lighten($color-acento-contenido, 30%)
+    &:before
+      background-color: $color-acento-contenido
+  &.color-acento-botones
+    background-color: lighten($color-acento-botones, 35%)
+    &:before
+      background-color: $color-acento-botones
+
+.bgr-tarjeta-tema1:before
+    background: #FFF59D
+    
+.bgr-tarjeta-tema1
+    background: #FFFDEB
+
+.bloque-texto-f:before 
+    top: 12%
+    left: 20px
+    right: 60%
+    bottom: 97px
+
+.bloque-texto-f.color-primario:before 
+    background-color: #FFFCDD
+
+.acordion__accion__btn--a 
+    background-color: $color-acento-botones
+
+///// Custom acordeon A tipo A -------------------------------------- 
+.tarjeta.acordeonA
+  background-color: #DFEAF1
+
+.acordion__accion__btn--a
+  background-color: $color-acento-botones !important
+
+.acordion__activo
+  background-color: #FFFCDD !important
+
+.lista-ul--color li > i:first-of-type 
+    color: #FF6B00
+
+.tabs-c.color-primario .tabs-c__tab--active 
+    background-color: #FFF59D
+
+.bacground_tap
+  background-color: #F6F6F6
+
+.bloque-texto-g__img 
+    left: 50%
+
+.bloque-texto-g__texto 
+    width: 65%
+    right: 30%
+
+.bloque-texto-tema3
+  display: flex;
+  flex-direction: column
+  position: relative
+  padding-bottom: 50px
+  &:before
+    content: ''
+    display: block
+    position: absolute
+    top: 7%
+    left: 3%
+    right: 30%
+    bottom: 68%
+  &__comillas
+    position: initial
+    
+    i
+      position: absolute
+      font-size: 2.5em
+      color: $color-acento-contenido
+      &:first-of-type
+        margin-right: 15px
+        top: 0
+        left: 40px
+        transform: translate(-50%,-50%)
+      &:last-of-type
+        margin-left: 15px
+        vertical-align: text-top
+        top: calc(100% - 50px)
+        right: 10px
+        margin: 0
+        transform: translate(-50%,-50%)
+  
+  &__texto
+    position: relative
+    *
+      display: inline
+
+  &__autor
+    text-align: center
+    position: relative
+
+  &__avatar
+    position: relative
+    height: 50px
+    &__img
+      background-color: $white
+      position: absolute
+      top: 0
+      left: 50%
+      transform: translateX(-50%)
+      width: 100px
+      border-radius: 50%
+      overflow: hidden
+      border: 5px solid $white
+      box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3)
+
+  &.color-primario
+    &:before
+      background-color: #FFFCDD 
+  &.color-secundario
+    &:before
+      background-color: $color-secundario
+  &.color-acento-contenido
+    &:before
+      background-color: $color-acento-contenido
+  &.color-acento-botones
+    &:before
+      background-color: $color-acento-botones
+
+.banner-tema-3
+  background-image: url("../assets/curso/temas/tema3/img5.png") !important
+
+.bloque-texto-b i 
+    color: #1B3F5E
+
+.bloque-texto-b.color-secundario:before 
+    background-color: #D1D8DF
+
+
+
