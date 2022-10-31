@@ -72,10 +72,10 @@
 
     .bg--img_03
       .row.justify-content-center.mb-4
-        .col-lg-4
+        .col-lg-5
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/tema1/img4.png", alt="alt").img400.m-auto
-        .col-lg-8
+        .col-lg-7
           AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
             .row(titulo="Tecnología")
               .col-12

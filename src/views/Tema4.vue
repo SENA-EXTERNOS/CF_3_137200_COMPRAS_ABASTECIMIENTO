@@ -149,9 +149,9 @@
       p Cuando se tiene toda la información correspondiente del producto elaborado, se procede a diligenciar esa información en un formato que está previamente establecido con los datos que se le deseen suministrar a los consumidores. Un ejemplo de ficha técnica lista para diligenciar puede ser de la siguiente manera:
 
    
-    .row.mt-5
+    .row
       .col-lg-3
-      .col-lg-6.mt-5
+      .col-lg-6.mt-3
         .titulo-sexto.color-acento-contenido
           h5 Figura 5.
           span #[i Ejemplo de ficha técnica]

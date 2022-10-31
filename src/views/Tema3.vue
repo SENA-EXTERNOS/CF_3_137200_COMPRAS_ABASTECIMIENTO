@@ -56,10 +56,10 @@
       h2 3.2 Tipos de captura
 
     .row.justify-content-around.align-items-center.mt-5
-      .col-lg-4
+      .col-lg-5
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema3/img4.png', alt='Texto que describa la imagen')  
-      .col-lg-8.banner-tema-3
+      .col-lg-7.banner-tema-3
         p Se sabe que las bases de datos se alimentan con información de manera permanente y es allí donde se debe saber cómo suministrar este tipo de informes. Dentro de los tipos de capturas más utilizados se encuentran la captura manual, código de barras, captura de voz, IDR e ICR. El primero, la captura manual, hace referencia a la introducción de datos de forma tradicional a partir de un teclado, puede ser debido a que los documentos no pueden ser capturados con otros tipos de tecnologías, ya que muchas veces son datos escritos a mano o porque simplemente no cuentan con otros instrumentos para agregar la información.
 
         p El reconocimiento de códigos de barras es otro de lo más empleados para capturar datos, ya que permite adquirir gran cantidad de información sobre un producto o documento. Estos son bastante utilizados en las empresas que tienen por actividad la comercialización de bienes. Actualmente se encuentran en el mercado dispositivos que permiten convertir la voz a texto y con ello lograr crear informes, documentos, etc., para alimentar las bases de datos, este tipo se denomina captura de voz.
@@ -77,7 +77,7 @@
     .row
       p Las bases de datos no integran solamente documentos de texto continuo, también se pueden insertar allí una serie de componentes los cuales contienen información de mucha importancia para la empresa como lo son:
 
-    .row.mt-5
+    .row
       .col-lg-2
       .col-lg-8.mt-5
         .titulo-sexto.color-acento-contenido
