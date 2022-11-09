@@ -220,7 +220,7 @@ export default {
     {
       tema: 'El sistema de abastecimiento y su aplicación',
       referencia:
-        'Ibáñez Machicao, M.  (2001). El sistema de abastecimiento y su aplicación. Gestión en el tercer milenio, 4(8), 32-43.',
+        'Ibáñez Machicao, M.  (2001). <em>El sistema de abastecimiento y su aplicación</em>. Gestión en el tercer milenio, 4(8), 32-43.',
       tipo: 'Pdf',
       link:
         'https://revistasinvestigacion.unmsm.edu.pe/index.php/administrativas/article/download/10478/9227 ',

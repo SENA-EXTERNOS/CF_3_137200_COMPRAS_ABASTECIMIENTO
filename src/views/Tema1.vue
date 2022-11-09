@@ -12,8 +12,8 @@
         p(data-aos="fade-down") Cuando se hace referencia al término abastecer, se puede remitir a las diferentes actividades que se desarrollan en conjunto con un proveedor, donde esa persona o empresa deberá encargarse de satisfacer o suplir la necesidad de determinados clientes, ya sea con un producto o servicio en los tiempos y formas estipuladas. El abastecimiento en las empresas es un factor fundamental que se viene implementando desde principios del siglo XIX, donde el área de compras y suministros era de las más importantes, tanto así que los encargados de este departamento hacían parte de la alta administración con cargos de vicepresidentes o directores.
 
         .cajonAmarillo.bgr-tarjeta-tema1.p-4
-            p(data-aos="fade-down") Lo invitamos a que visualice el video introductorio que se encuentra a continuación, donde podrá conocer de manera general todos los temas que serán desarrollados en este componente. #[b ¡Muchos éxitos!]
-
+            p(data-aos="fade-down") En la actualidad y ante la escases de tantos productos en el mercado, tanto nacional como internacional, el lograr abastecerse de manera eficiente y eficaz se ha tornado a ser un proceso bastante complejo. Es allí donde las personas encargadas de esta área deberán realizar una correcta planificación y gestión de manera estratégica para que no se vean afectados sus procesos productivos por falta de recursos o materias primas, lo cual conllevaría a la empresa a tener millonarias pérdidas, por ende, un malestar en sus clientes por el incumplimiento en los pedidos solicitados.
+            
 
       .col-lg-5
         figure(data-aos="zoom-in")

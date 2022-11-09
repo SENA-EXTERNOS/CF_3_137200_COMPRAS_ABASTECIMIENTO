@@ -18,7 +18,11 @@
 
         p Estos conocimientos van a permitir que los colaboradores estén preparados cuando en su ámbito laboral o en sus emprendimientos tengan que seleccionar sus fuentes de abastecimiento, y así lo puedan realizar estratégicamente. Ahora, en caso de que deseen sacar un producto al mercado, sabrán que este puede llegar a ser un producto sustituto y así saber cómo planificar para que su artículo contenga un valor agregado que permita que los clientes puedan llegar a elegirlo. Además de ello podrá elaborar su ficha técnica para que sus clientes puedan obtener la información adecuada que permita un buen uso del producto.
 
-    .row.justify-content-center.align-items-center.mb-5           
+        .cajonAmarillo.bgr-tarjeta-tema1.p-4
+            p(data-aos="fade-down") Lo invitamos a que visualice el video introductorio que se encuentra a continuación, donde podrá conocer de manera general todos los temas que serán desarrollados en este componente. #[b ¡Muchos éxitos!]
+  
+
+    .row.justify-content-center.align-items-center.mb-5.mt-5           
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
