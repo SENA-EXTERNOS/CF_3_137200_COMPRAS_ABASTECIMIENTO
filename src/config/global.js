@@ -47,26 +47,6 @@ export default {
         numero: '1',
         titulo: 'Fuentes de abastecimiento',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Tipos',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Características',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Ubicación geográfica',
-            hash: 't_1_3',
-          },
-        ],
       },
 
       {
@@ -75,20 +55,6 @@ export default {
         numero: '2',
         titulo: 'Productos sustitutos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Tipos',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Características',
-            hash: 't_2_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -96,38 +62,6 @@ export default {
         numero: '3',
         titulo: 'Base de datos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Estructura',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Tipos de captura',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Conformación',
-            hash: 't_3_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.4',
-            titulo: 'Aplicación',
-            hash: 't_3_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.5',
-            titulo: 'Técnicas de uso',
-            hash: 't_3_5',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
@@ -135,38 +69,6 @@ export default {
         numero: '4',
         titulo: 'Ficha técnica de productos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Clases',
-            hash: 't_4_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Características',
-            hash: 't_4_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.3',
-            titulo: 'Aplicaciones',
-            hash: 't_4_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.4',
-            titulo: 'Técnicas de elaboración',
-            hash: 't_4_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.5',
-            titulo: 'Diligenciamiento',
-            hash: 't_4_5',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -211,14 +113,14 @@ export default {
   },
   complementario: [
     {
-      tema: 'Administración de compras y abastecimiento',
+      tema: 'Fuentes de abastecimiento',
       referencia:
         'Johnson, P. F., Leenders, M. R., & Flynn, A. E. (2012). <em>Administración de compras y abastecimiento</em>. McGraw Hill Educación.',
       tipo: 'Libro',
       link: 'http://up-rid2.up.ac.pa:8080/xmlui/handle/123456789/2062',
     },
     {
-      tema: 'El sistema de abastecimiento y su aplicación',
+      tema: 'Fuentes de abastecimiento',
       referencia:
         'Ibáñez Machicao, M.  (2001). <em>El sistema de abastecimiento y su aplicación</em>. Gestión en el tercer milenio, 4(8), 32-43.',
       tipo: 'Pdf',
@@ -226,7 +128,7 @@ export default {
         'https://revistasinvestigacion.unmsm.edu.pe/index.php/administrativas/article/download/10478/9227 ',
     },
     {
-      tema: 'Estructura y organización de una base de datos',
+      tema: 'Base de datos',
       referencia:
         'Trentin, G. (1992). <em>Estructura y organización de una base de datos</em>. Comunicación, Lenguaje y Educación, 4(13), 81-88.',
       tipo: 'Pdf',
@@ -272,19 +174,8 @@ export default {
   ],
   referencias: [
     {
-      referencia:
-        'Coll, F. (19 de 05 de 2020). <em>Compra</em>. Economipedia. Obtenido de',
+      referencia: 'Coll, F. (2020). <em>Compra</em>. Economipedia. Obtenido de',
       link: 'https://economipedia.com/definiciones/compra.html',
-    },
-    {
-      referencia:
-        'Ibáñez Machicao, M. (2001). <em>El sistema de abastecimiento y su aplicación</em>. Gestión en el tercer milenio, 4(8), 32-43.',
-      link: '',
-    },
-    {
-      referencia:
-        'Johnson, P. F., Leenders, M. R., & Flynn, A. E. (2012). <em>Administración de compras y abastecimiento</em>. McGraw Hill Educación.',
-      link: '',
     },
     {
       referencia:
@@ -293,43 +184,37 @@ export default {
     },
     {
       referencia:
-        'Marqués, M. (2011). <em>Bases de datos</em>. (pág. 2). Universitat Jaume I.',
-      link: '',
+        'Marqués, M. (2011). <em>Bases de datos</em>. Universitat Jaume I.',
     },
     {
       referencia:
-        'Microsoft. (s.f.). <em>Conceptos básicos sobre bases de datos</em>. Microsoft Soporte. Obtenido de ',
+        'Microsoft. (s.f.). <em>Conceptos básicos sobre bases de datos</em>. Microsoft Soporte.',
       link:
         'https://support.microsoft.com/es-es/office/conceptos-b%C3%A1sicos-sobre-bases-de-datos-a849ac16-07c7-4a31-9948-3c8c94a7c204',
     },
     {
       referencia:
-        'Quiroa, M. (07 de 01 de 2020). <em>Producto</em>. Economipedia. Obtenido de',
+        'Quiroa, M. (2020). <em>Producto</em>. Economipedia. Obtenido de',
       link: 'https://economipedia.com/definiciones/producto.html',
     },
     {
       referencia:
-        'Sánchez, J. (17 de 07 de 2018). <em>Abastecimiento</em>. Economipedia. Obtenido de ',
+        'Sánchez, J. (2018). <em>Abastecimiento</em>. Economipedia. Obtenido de ',
       link: 'https://economipedia.com/definiciones/abastecimiento.html',
     },
     {
       referencia:
-        'Sánchez, J. (05 de 11 de 2018). <em>Proveedor</em>. Economipedia. Obtenido de',
+        'Sánchez, J. (2018). <em>Proveedor</em>. Economipedia. Obtenido de',
       link: 'https://economipedia.com/definiciones/proveedor.html',
     },
     {
       referencia:
-        'Sevilla, A. (29 de 05 de 2012). <em>Logística</em>. Economipedia. Obtenido de',
+        'Sevilla, A. (2012). <em>Logística</em>. Economipedia. Obtenido de',
       link: 'https://economipedia.com/definiciones/logistica.html',
     },
     {
       referencia:
-        'Trentin, G. (1992). <em>Estructura y organización de una base de datos</em>. Comunicación, Lenguaje y Educación, 4(13), 81-88.',
-      link: '',
-    },
-    {
-      referencia:
-        'Westreicher, G. (22 de 12 de 2020). <em>Dato</em>. Economipedia. Obtenido de',
+        'Westreicher, G. (2020). <em>Dato</em>. Economipedia. Obtenido de',
       link: 'https://economipedia.com/definiciones/dato.html',
     },
   ],

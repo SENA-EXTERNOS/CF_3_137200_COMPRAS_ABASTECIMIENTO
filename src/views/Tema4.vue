@@ -14,13 +14,7 @@
       .bloque-texto-g__texto.p-4
         p(data-aos="fade-down").mb-0 Se conoce por ficha técnica al documento donde se encuentra toda la información relacionada con el producto, artículo, objeto, entre otros, dependiendo del tipo de elemento al que se le va a aplicar la ficha, así mismo será la información allí suministrada. Dentro de ella se incluyen sus características, composiciones, información comercial, recomendaciones, usos, entre otros. Establecer y estructurar una ficha técnica proporcionará lograr tener un mejor producto en cuanto a calidad. 
 
-      
-    separador
-
-    #t_4_1
-
-    .titulo-segundo.color-acento-contenido.mt-5(data-aos="fade-down")
-      h2 4.1 Clases
+    h4.mt-5 Clases
 
     .row
       p Las bases de datos no integran solamente documentos de texto continuo, también se pueden insertar allí una serie de componentes los cuales contienen información de mucha importancia para la empresa como lo son:
@@ -29,20 +23,13 @@
       .col-lg-3
       .col-lg-6.mt-5
         .titulo-sexto.color-acento-contenido
-          h5 Figura 4.
-          span #[i Clases de ficha técnica]
+          p <b>Figura 4.</b> <br> <i> Clases de ficha técnica</i>
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema4/img2.png', alt='Texto que describa la imagen')  
-          figcaption.mt-3 Fuente: elaboración del experto
+          img(src='@/assets/curso/temas/tema4/img2.svg', alt='')  
+
       .col-lg-3
     
-    
-    separador
-
-    #t_4_2
-
-    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
-      h2 4.2 Características
+    h4.mt-5 Características
 
     .row
       p Una ficha técnica reúne cierta cantidad de información importante para el consumidor, la cual deberá ser objetiva y concreta; tanto la que va dirigida al público como la que se utiliza en la producción. Dentro de las principales características tenemos las siguientes:
@@ -50,7 +37,7 @@
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-3
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema4/img3.png', alt='Texto que describa la imagen')  
+          img(src='@/assets/curso/temas/tema4/img3.png', alt='')  
       .col-lg-9.banner-tema-3
         p #[b Ficha técnica de producto comercial:]
 
@@ -102,31 +89,19 @@
       .col-lg-3
       .col-lg-6.mt-5
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema4/img4.png', alt='Texto que describa la imagen')  
+          img(src='@/assets/curso/temas/tema4/img4.png', alt='')  
       .col-lg-3
 
-    separador
-    
-    #t_4_3
-
-    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
-      h2 4.3 Aplicaciones
+    h4.mt-5 Aplicaciones
 
     .row.justify-content-around.align-items-center
       .col-lg-2
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema4/img5.png', alt='Texto que describa la imagen')  
+          img(src='@/assets/curso/temas/tema4/img5.png', alt='')  
       .col-lg-10
         p Una ficha técnica es un documento o una etiqueta, donde debe de ir relacionada toda la información de un producto, materia prima o proceso de fabricación de un determinado producto. Es por ello, que este tipo de documento se podrá aplicar a todos los productos que se deseen producir o ya estén fabricados. Estas fichas se elaboran con el fin de que un producto se fabrique con unos estándares ya establecidos, lo que hará que existan unos controles de calidad y por ende, un producto final bien elaborado. El otro tipo de ficha técnica servirá para que el consumidor conozca qué clase de producto es el que está adquiriendo, con sus características, componentes, etc.
 
-      
-
-    separador
-
-    #t_4_4
-
-    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
-      h2 4.4 Técnicas de elaboración
+    h4.mt-5 Técnicas de elaboración
 
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-7
@@ -136,14 +111,9 @@
 
       .col-lg-5
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema4/img6.png', alt='Texto que describa la imagen')  
+          img(src='@/assets/curso/temas/tema4/img6.png', alt='')  
     
-    separador
-
-    #t_4_5
-
-    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
-      h2 4.5 Diligenciamiento
+    h4.mt-5 Diligenciamiento
 
     .row
       p Cuando se tiene toda la información correspondiente del producto elaborado, se procede a diligenciar esa información en un formato que está previamente establecido con los datos que se le deseen suministrar a los consumidores. Un ejemplo de ficha técnica lista para diligenciar puede ser de la siguiente manera:
@@ -153,15 +123,12 @@
       .col-lg-3
       .col-lg-6.mt-3
         .titulo-sexto.color-acento-contenido
-          h5 Figura 5.
-          span #[i Ejemplo de ficha técnica]
+          p <b>Figura 5.</b> <br> <i> Ejemplo de ficha técnica</i>
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema4/img7.png', alt='Texto que describa la imagen')  
-          figcaption.mt-3 Fuente: elaboración del experto
+          img(src='@/assets/curso/temas/tema4/img7.png', alt='')  
+
       .col-lg-3
       
-
-
 </template>
 
 <script>

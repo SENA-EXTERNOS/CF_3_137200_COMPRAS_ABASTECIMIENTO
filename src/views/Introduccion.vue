@@ -14,12 +14,12 @@
         figure
           img(src='@/assets/curso/temas/introduccion/img1.png', alt='Texto que describa la imagen')  
       .col-lg-7
-        p(data-aos="fade-down") En el módulo formativo el aprendiz podrá adquirir conocimientos relacionados con las fuentes de abastecimiento, la importancia de elegir estratégicamente cada una de ellas para el correcto desarrollo y funcionamiento de las empresas. Por otra parte, apropiará conocimientos acerca de los productos sustitutos, tipos y características; aprenderá sobre las bases de datos, estructura, tipos de captura de datos, ficha técnica de un producto, su elaboración y diligenciamiento.
+        p(data-aos="fade-down") Apreciado aprendiz, bienvenido a este componente formativo, donde podrá adquirir conocimientos relacionados con las fuentes de abastecimiento, la importancia de elegir estratégicamente cada una de ellas para el correcto desarrollo y funcionamiento de las empresas. Por otra parte, apropiará conocimientos acerca de los productos sustitutos, tipos y características; aprenderá sobre las bases de datos, estructura, tipos de captura de datos, ficha técnica de un producto, su elaboración y diligenciamiento.
 
         p Estos conocimientos van a permitir que los colaboradores estén preparados cuando en su ámbito laboral o en sus emprendimientos tengan que seleccionar sus fuentes de abastecimiento, y así lo puedan realizar estratégicamente. Ahora, en caso de que deseen sacar un producto al mercado, sabrán que este puede llegar a ser un producto sustituto y así saber cómo planificar para que su artículo contenga un valor agregado que permita que los clientes puedan llegar a elegirlo. Además de ello podrá elaborar su ficha técnica para que sus clientes puedan obtener la información adecuada que permita un buen uso del producto.
 
         .cajonAmarillo.bgr-tarjeta-tema1.p-4
-            p(data-aos="fade-down") Lo invitamos a que visualice el video introductorio que se encuentra a continuación, donde podrá conocer de manera general todos los temas que serán desarrollados en este componente. #[b ¡Muchos éxitos!]
+            p(data-aos="fade-down") En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
   
 
     .row.justify-content-center.align-items-center.mb-5.mt-5           
