@@ -123,7 +123,7 @@
       .col-lg-3
       .col-lg-6.mt-3
         .titulo-sexto.color-acento-contenido
-          p <b>Figura 5</b> <br> <i> Ejemplo de ficha técnica</i>
+          p <b>Tabla 1</b> <br> <i> Ejemplo de ficha técnica</i>
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema4/img7.png', alt='')  
 
