@@ -30,6 +30,11 @@
           img(src='@/assets/curso/temas/tema1/img2.png', alt='T')  
       .col-lg-2
 
+    p.mt-5 Cuando una organización logra hacer una correcta planificación estratégica y una buena gestión de los cuatro recursos que componen el ciclo de abastecimiento, le será mucho más fácil lograr ser competitivo en el mercado. Debido a que la calidad del producto que se va a ofrecer, dependerá de toda esa gestión que se hace para adquirir las materias primas procesadas y no procesadas, de las maquinarias con las que se llevan a cabo los procesos de producción y por supuesto de las capacidades y aptitudes de los colaboradores; mientras que el precio con el que se va a salir al mercado va a depender de todos los costos generados en la fabricación  y distribución logística del producto o servicio. 
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-10    
+        .cajonAmarillo.bgr-tarjeta-tema1.p-4
+            p(data-aos="fade-down") Es decir que la competitividad de una empresa, de acuerdo a la calidad de sus productos o servicios, va a depender de la gestión que se realice en las fuentes de abastecimiento, donde siempre se debe pensar en satisfacer a los clientes, brindandoles un artículo con excelentes estándares de calidad y precios accequibles. Porque de nada va a servir tener un producto o servicio bien elaborado, si su valor no va a estar acorde a lo ofrecido o como en muchas ocasiones sucede, ese producto no se encuentra de manera fácil en el mercado y ya con estos agravantes sus clientes van a empezar a usar otro producto similar que si tenga un precio acorde y que se encuentre en diferentes lugares, el siguiente vídeo ejemplificará el proceso de abastecimiento: 
     figure.mt-5(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

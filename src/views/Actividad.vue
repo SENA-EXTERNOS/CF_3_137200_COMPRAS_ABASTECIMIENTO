@@ -10,7 +10,7 @@
             img(src="@/assets/template/arrastrar.png", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Arrastrar y soltar
+          h2 Políticas de compras y productos
         p.mb-4 A continuación, se encontrarán unas definiciones y conceptos de manera desordenada para que sean organizados y relacionados según considere que es la manera indicada. Esta actividad tendrá como objetivo que el aprendiz termine de apropiar los conocimientos adquiridos en el componente formativo.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
