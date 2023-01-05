@@ -36,7 +36,7 @@
       .col-lg-3
       .col-lg-6.mt-5
         .titulo-sexto.color-acento-contenido
-          p <b>Figura 2.</b> <br> <i> Tipos de asociaciones</i>
+          p <b>Figura 2</b> <br> <i> Tipos de asociaciones</i>
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema3/img3.svg', alt='')  
       .col-lg-3
@@ -64,7 +64,7 @@
       .col-lg-2
       .col-lg-8.mt-5
         .titulo-sexto.color-acento-contenido
-          p <b>Figura 3.</b> <br> <i> Componentes de una base de datos</i>
+          p <b>Figura 3</b> <br> <i> Componentes de una base de datos</i>
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema3/img6.png', alt='')  
 

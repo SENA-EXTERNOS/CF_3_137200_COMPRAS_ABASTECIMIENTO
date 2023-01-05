@@ -25,7 +25,7 @@
       .col-lg-2
       .col-lg-8.mt-5
         .titulo-sexto.color-acento-contenido
-          p <b>Figura 1.</b> <br> <i> Ciclo del abastecimiento</i>
+          p <b>Figura 1</b> <br> <i> Ciclo del abastecimiento</i>
         figure
           img(src='@/assets/curso/temas/tema1/img2.png', alt='T')  
       .col-lg-2
