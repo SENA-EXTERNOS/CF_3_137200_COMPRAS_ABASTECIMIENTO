@@ -34,7 +34,7 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10    
         .cajonAmarillo.bgr-tarjeta-tema1.p-4
-            p(data-aos="fade-down") Es decir que la competitividad de una empresa, de acuerdo a la calidad de sus productos o servicios, va a depender de la gestión que se realice en las fuentes de abastecimiento, donde siempre se debe pensar en satisfacer a los clientes, brindandoles un artículo con excelentes estándares de calidad y precios accequibles. Porque de nada va a servir tener un producto o servicio bien elaborado, si su valor no va a estar acorde a lo ofrecido o como en muchas ocasiones sucede, ese producto no se encuentra de manera fácil en el mercado y ya con estos agravantes sus clientes van a empezar a usar otro producto similar que si tenga un precio acorde y que se encuentre en diferentes lugares, el siguiente vídeo ejemplificará el proceso de abastecimiento: 
+            p(data-aos="fade-down") Es decir que la competitividad de una empresa, de acuerdo a la calidad de sus productos o servicios, va a depender de la gestión que se realice en las fuentes de abastecimiento, donde siempre se debe pensar en satisfacer a los clientes, brindándoles un artículo con excelentes estándares de calidad y precios axequibles. Porque de nada va a servir tener un producto o servicio bien elaborado, si su valor no va a estar acorde a lo ofrecido o como en muchas ocasiones sucede, ese producto no se encuentra de manera fácil en el mercado y ya con estos agravantes sus clientes van a empezar a usar otro producto similar que, si tenga un precio acorde y que se encuentre en diferentes lugares, el siguiente vídeo ejemplificará el proceso de abastecimiento: 
     figure.mt-5(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/TU34Gz-pkkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -75,7 +75,7 @@
           AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
             .row(titulo="Tecnología")
               .col-12
-                p.mb-0 En la actualidad existen diferentes #[i software] que van a ser de gran ayuda para la gestión de las fuentes de abastecimiento, este se encargará de recibir y suministrar información confiable para aportar en el proceso, lo cual brindará mucha seguridad. 
+                p.mb-0 En la actualidad existen diferentes #[i softwares] que van a ser de gran ayuda para la gestión de las fuentes de abastecimiento, este se encargará de recibir y suministrar información confiable para aportar en el proceso, lo cual brindará mucha seguridad. 
 
             .row(titulo="Eficiencia")
               .col-12

@@ -117,7 +117,8 @@ export default {
       referencia:
         'Johnson, P. F., Leenders, M. R., & Flynn, A. E. (2012). <em>Administración de compras y abastecimiento</em>. McGraw Hill Educación.',
       tipo: 'Libro',
-      link: 'http://up-rid2.up.ac.pa:8080/xmlui/handle/123456789/2062',
+      link:
+        'https://profesorailleanasilva.files.wordpress.com/2016/10/administracic3b3n-de-compras-y-abastecimientos-14ed-p-fraser-johnson-michiel-r-leenders-y-anna-e-flynn.pdf',
     },
     {
       tema: 'Fuentes de abastecimiento',
@@ -185,6 +186,8 @@ export default {
     {
       referencia:
         'Marqués, M. (2011). <em>Bases de datos</em>. Universitat Jaume I.',
+      link:
+        'https://bdigital.uvhm.edu.mx/wp-content/uploads/2020/05/Bases-de-Datos.pdf',
     },
     {
       referencia:
