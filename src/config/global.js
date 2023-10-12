@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Políticas de compras y productos',
     descripcionCurso:
-      'El componente formativo tiene como objetivo que el aprendiz adquiera conocimientos sobre fuentes de abastecimiento, productos sustitutos, bases de datos y su estructura, técnicas de uso, métodos para capturar los datos, conocer que es una ficha técnica de un producto y elementos que la componen, sus características y la forma de diligenciamiento. Todo esto con el fin de que elabore estrategias para la elección de las fuentes de abastecimiento y logre diseñar fichas técnicas de los productos.',
+      'El componente formativo tiene como objetivo que el aprendiz adquiera conocimientos sobre fuentes de abastecimiento, productos sustitutos, bases de datos y su estructura, técnicas de uso, métodos para capturar los datos, conocer qué es una ficha técnica de un producto y elementos que la componen, sus características y la forma de diligenciamiento. Todo esto con el fin de que elabore estrategias para la elección de las fuentes de abastecimiento y logre diseñar fichas técnicas de los productos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -140,37 +140,37 @@ export default {
     {
       termino: 'Abastecimiento',
       significado:
-        'proceso mediante el cual los proveedores facilitan medios al resto de grupos económicos o individuos, los cuales consiguen un determinado nivel de satisfacción o utilidad (Galán, Economipedia, 2018)',
+        'proceso mediante el cual los proveedores facilitan medios al resto de grupos económicos o individuos, los cuales consiguen un determinado nivel de satisfacción o utilidad (Galán, Economipedia, 2018).',
     },
     {
       termino: 'Compras',
       significado:
-        'acción mediante la que un agente (el comprador), adquiere un bien o un servicio de otro agente (el vendedor), a cambio de una contraprestación monetaria o en especie (Morales, 2020)',
+        'acción mediante la que un agente (el comprador), adquiere un bien o un servicio de otro agente (el vendedor), a cambio de una contraprestación monetaria o en especie (Morales, 2020).',
     },
     {
       termino: 'Datos',
       significado:
-        'es la representación de una variable cualitativa o cuantitativa. Suele tener una base empírica, es decir, proviene de la realidad. En este sentido, puede utilizarse para el análisis de un hecho concreto (Westreicher, 2020)',
+        'es la representación de una variable cualitativa o cuantitativa. Suele tener una base empírica, es decir, proviene de la realidad. En este sentido, puede utilizarse para el análisis de un hecho concreto (Westreicher, 2020).',
     },
     {
       termino: 'Logística',
       significado:
-        'son todas las operaciones llevadas a cabo para hacer posible que un producto llegue al consumidor desde el lugar donde se obtienen las materias primas, pasando por el lugar de su producción (Arias, 2012)',
+        'son todas las operaciones llevadas a cabo para hacer posible que un producto llegue al consumidor desde el lugar donde se obtienen las materias primas, pasando por el lugar de su producción (Arias, 2012).',
     },
     {
       termino: 'Política',
       significado:
-        'es el conjunto de relaciones derivadas de la interacción de los seres humanos como consecuencia de vivir en sociedad (García, 2021)',
+        'es el conjunto de relaciones derivadas de la interacción de los seres humanos como consecuencia de vivir en sociedad (García, 2021).',
     },
     {
       termino: 'Producto',
       significado:
-        'es el resultado que se obtiene del proceso de producción dentro de una empresa (Quiroa, 2020)',
+        'es el resultado que se obtiene del proceso de producción dentro de una empresa (Quiroa, 2020).',
     },
     {
       termino: 'Proveedor',
       significado:
-        'es a aquella persona física o jurídica que provee o suministra profesionalmente de un determinado bien o servicio a otros individuos o sociedades, como forma de actividad económica y a cambio de una contra prestación (Galán, Economipedia, 2018)',
+        'es a aquella persona física o jurídica que provee o suministra profesionalmente de un determinado bien o servicio a otros individuos o sociedades, como forma de actividad económica y a cambio de una contra prestación (Galán, Economipedia, 2018).',
     },
   ],
   referencias: [
